@@ -4,7 +4,7 @@ Nightstorm26/Nightstorm26 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-🔭 I am a 3D enthusiasts<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning to <br>💬 Ask me about anything even if i dont know about it i'll research and learn then get back to you<br>⚡ Fun fact that i love playing games
+🔭 I am a 3D enthusiasts<br>🤝 I’m open to collaborate, you can cruise around my repos and if any bulb enlightened we can then work on it<br>🌱 I am focusing on enhancing my skills <br>💬 Ask me about anything even if i dont know about it i'll research and learn then get back to you<br>⚡ Fun fact that i love playing games
 
 
 ## 🌐 Socials:
