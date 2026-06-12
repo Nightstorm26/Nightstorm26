@@ -106,7 +106,7 @@ Always open to collaborating on systems, infra, and ML-heavy projects. Feel free
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-kumar-singh-26"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/Nightstorm26"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/_aryan_kumar.singh"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_aryan_kumar.singh"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
