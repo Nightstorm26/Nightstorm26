@@ -30,6 +30,18 @@ Final-year B.Tech CSE student (2026 pass-out) building production-grade backend 
 
 ---
 
+## 🌐 Let's Connect
+
+Always open to collaborating on systems, infra, and ML-heavy projects. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-kumar-singh-26"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/Nightstorm26"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_aryan_kumar.singh"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -98,16 +110,6 @@ Final-year B.Tech CSE student (2026 pass-out) building production-grade backend 
 </p>
 
 ---
-
-## 🌐 Let's Connect
-
-Always open to collaborating on systems, infra, and ML-heavy projects. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-kumar-singh-26"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.github.com/Nightstorm26"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_aryan_kumar.singh"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
